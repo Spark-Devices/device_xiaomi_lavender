@@ -53,8 +53,6 @@
     <dimen name="status_bar_height_portrait">80.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
 
-    <bool name="config_physicalDisplayCutout">true</bool>
-
      <!-- Set up those curves -->
     <dimen name="config_dialogCornerRadius">8.0dip</dimen>
     <dimen name="config_buttonCornerRadius">4.0dip</dimen>

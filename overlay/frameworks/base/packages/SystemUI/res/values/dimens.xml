@@ -36,5 +36,5 @@
     <dimen name="keyguard_carrier_text_margin">55px</dimen>
 
     <!-- QS Tiles background size // default is 44.0 | maximum is 47.5 (for lavender) // -->
-    <dimen name="qs_tile_background_size">46.5dp</dimen>
+    <dimen name="qs_tile_background_size">48.0dp</dimen>
 </resources>

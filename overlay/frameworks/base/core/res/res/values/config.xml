@@ -55,6 +55,10 @@
 
     <bool name="config_physicalDisplayCutout">true</bool>
 
+     <!-- Set up those curves -->
+    <dimen name="config_dialogCornerRadius">8.0dip</dimen>
+    <dimen name="config_buttonCornerRadius">4.0dip</dimen>
+    
     <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
          autodetected from the Configuration. -->
     <bool name="config_showNavigationBar">true</bool>

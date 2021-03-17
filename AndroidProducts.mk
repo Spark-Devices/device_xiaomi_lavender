@@ -23,9 +23,9 @@
 
 # Inherit Redmi Note 7 device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_lavender.mk
+    $(LOCAL_DIR)/spark_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_lavender-eng \
-    potato_lavender-userdebug \
-    potato_lavender-user
+    spark_lavender-eng \
+    spark_lavender-userdebug \
+    spark_lavender-user

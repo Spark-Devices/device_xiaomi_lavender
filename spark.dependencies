@@ -32,7 +32,19 @@
   {
     "remote": "github",
     "repository": "AOSP-11/hardware_qcom-caf_display_msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/display-r",
-    "branch": "11"
+    "target_path": "hardware/qcom-caf/msm8998-r/display",
+    "branch": "11"  
+  },
+  {
+    "remote": "github",
+    "repository": "AOSP-11/hardware_qcom-caf_audio_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998-r/audio",
+    "branch": "11"  
+  },
+  {
+    "remote": "github",
+    "repository": "AOSP-11/hardware_qcom-caf_media_msm8998",
+    "target_path": "hardware/qcom-caf/msm8998-r/media",
+    "branch": "11"  
   }
 ]

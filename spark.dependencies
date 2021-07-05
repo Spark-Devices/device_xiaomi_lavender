@@ -21,7 +21,7 @@
     "remote": "github",
     "repository": "etahamad/kernel_xiaomi_lavender",
     "target_path" : "kernel/xiaomi/sdm660",
-    "branch": "dumaloo-release"
+    "branch": "chips"
   },
   {
     "remote": "github",
